@@ -1,0 +1,24 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #F3F1FF;
+}
+
+.icon {
+    width: 40.42px;
+    height: 51px;
+}
+
+header {
+    background-color: #562EFF;
+}
+
+.logo-text {
+    width: 54px;
+    height: 36px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
